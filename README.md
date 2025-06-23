@@ -5,21 +5,6 @@ A structured framework for building scalable, layered data pipelines in SQL Serv
 
 ---
 
-## Table of Contents
-
-- [Why This Project?](#why-this-project)  
-- [Features](#features)  
-- [Architecture](#architecture)  
-- [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
----
-
 ## Why This Project?
 
 Building a production-grade data warehouse can feel overwhelming. This project streamlines the process by giving you:  
@@ -47,7 +32,7 @@ Building a production-grade data warehouse can feel overwhelming. This project s
 
 ## Architecture
 
-<img src="./docs/Data_Architecture.png" alt="Flowchart" style="display:block; margin:0 auto; width:50%;" />
+<img src="./docs/Data_Architecture.png" alt="Flowchart" style="display:block; margin:0 auto; width:80%;" />
 
 1. **Bronze**: Raw extracts land here.  
 2. **Silver**: Data is cleaned, validated and standardized.  
