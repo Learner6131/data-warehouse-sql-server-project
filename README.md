@@ -7,7 +7,6 @@ A structured framework for building scalable, layered data pipelines in SQL Serv
 
 ## Why This Project?
 
-Building a production-grade data warehouse can feel overwhelming. This project streamlines the process by giving you:  
 - A clear, layered schema design  
 - Prebuilt ETL scripts for raw ingestion and transformation  
 - Modular views and tables tailored for reporting  
